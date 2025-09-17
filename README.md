@@ -12,8 +12,8 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 - **Nome completo:** Felipe Melo de Sousa
 - **Matrícula:** 242015370
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Curso:** Engenharias
+- **Turma:** 02
 
 ---
 
