@@ -10,8 +10,8 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
+- **Nome completo:** Felipe Melo de Sousa
+- **Matrícula:** 242015370
 - **Curso:** [Preencher aqui]
 - **Turma:** [Preencher aqui]
 
